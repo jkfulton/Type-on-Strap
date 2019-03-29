@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About Rebecca
-subtitle: Rider&emsp;Coach&emsp;Clinics&emsp;Judge&emsp;
+subtitle: Rider&emsp;Coach&emsp;Clinics&emsp;Judge
 permalink: /about/
-feature-img: "assets/img/pexels/look-out.jpeg"
+feature-img: "assets/img/pexels/beach-blue.jpeg"
 tags:
 ---
 
