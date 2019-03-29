@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Rider&emsp;Coach&emsp;Clinics&emsp;Judge&emsp;
+title: About
+subtitle: Rider&emsp;Coach&emsp;Clinics&emsp;Judge&emsp;
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags:
