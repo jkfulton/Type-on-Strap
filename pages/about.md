@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Rebecca
 subtitle: Rider&emsp;Coach&emsp;Clinics&emsp;Judge&emsp;
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
