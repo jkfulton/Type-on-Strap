@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Rider&emsp;Coach&emsp;Clinics&emsp;Judge&emsp;
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexels/triangular.jpeg"
 tags:
 ---
 
