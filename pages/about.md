@@ -15,6 +15,8 @@ tags:
  
 <!--more-->
 
+![cello](assets/img/pexels/rebecca-cello.jpeg!){:class="img-responsive" height="700px" width="400px"}
+
 Rebecca continues to advance her knowledge and develop coaching skills by participating in a wide variety of Continuing Education Professional Development Programs.
 
 She has participated in and audited clinics with instructors including: Dr. Andrew McLean (Australia), Manuela McLean (Australia), George Morris (USA), Leslie Law (UK), Geoff Teall (USA), Bert Rutton (Holland), Jackie Oldham, Shannon Oldham-Dueck, Hub Huben (Holland), Henk Glijn, Lori Glijn, Dale Irwin, Lorraine Gilchrist and Theresa Washtock.
