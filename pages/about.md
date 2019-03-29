@@ -3,7 +3,7 @@ layout: page
 title: About Rebecca
 subtitle: Rider&emsp;Coach&emsp;Clinics&emsp;Judge&emsp;
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexels/look-out.jpeg"
 tags:
 ---
 
