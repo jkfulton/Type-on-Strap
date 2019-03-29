@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
 url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Rebecca Clyburn # site's title
+description: "Equestrian" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -14,7 +14,7 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: Coach &nbsp;&nbsp;&nbsp;&nbsp Judge &nbsp;&nbsp;&nbsp;&nbsp Instructor
+  header_text: Trainer &nbsp;&nbsp;&nbsp;&nbsp Coach &nbsp;&nbsp;&nbsp;&nbsp Judge &nbsp;&nbsp;&nbsp;&nbsp Instructor
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
