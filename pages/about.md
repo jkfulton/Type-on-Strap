@@ -15,7 +15,7 @@ tags:
  
 <!--more-->
 
-![cello](assets/img/pexels/rebecca-cello.jpeg){:class="img-responsive" height="700px" width="400px"}
+![cello](/assets/img/pexels/rebecca-cello.jpeg){:class="img-responsive"}
 
 Rebecca continues to advance her knowledge and develop coaching skills by participating in a wide variety of Continuing Education Professional Development Programs.
 
